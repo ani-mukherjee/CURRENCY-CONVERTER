@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+body{
+    background-color: rgb(181, 174, 240);
+}
+.heading{
+    font-size: 53px;
+    font-weight: 700;
+    margin-top: 80px;
+    margin-bottom: 50px;
+    color: #0c00f0;
+
+}
+.total{
+    background-color: rgb(200, 106, 221);
+    margin:0 400px 0 400px ;
+    padding:80px 30px 80px 30px;
+    border-radius: 40px;
+}
+#value1{
+    width: 200px;
+    height: 45px;
+    border-radius: 10px;
+    margin-right: 5px;
+    font-weight:bolder;
+    font-size: larger;
+    color: #ff0000b0;
+    background-color: lightgreen;
+    border-width: 5px;
+    border-style: double;
+    border-color:rgb(0, 255, 187);
+}
+#currency1{
+    width: 260px;
+    height: 45px;
+    border-radius: 10px;
+    font-weight:bolder;
+    font-size: larger;
+    color: #ff000088;
+    background-color: lightgreen;
+    border-width: 5px;
+    border-style: double;
+    border-color:rgb(0, 255, 187);
+    
+}
+#value2{
+    width: 200px;
+    height: 45px;
+    border-radius: 10px;
+    margin-right: 5px;
+    font-weight:bolder;
+    font-size: larger;
+    color: #ff0000b0;
+    background-color: lightgreen;
+    border-width: 5px;
+    border-style: double;
+    border-color:rgb(0, 255, 187);
+}
+
+#currency2{
+    width: 260px;
+    height: 45px;
+    border-radius: 10px;
+    font-weight:bolder;
+    font-size: larger;
+    color: #ff000088;
+    background-color: lightgreen;
+    border-width: 5px;
+    border-style: double;
+    border-color:rgb(0, 255, 187);
+
+}
+
